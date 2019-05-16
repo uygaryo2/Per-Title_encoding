@@ -1,0 +1,39 @@
+,id,filename,format_long_name,duration,size,bitrate_total,video_codec,video_profile,width,height,sample_aspect_ratio,display_aspect_ratio,bitrate_video,frame_rate,created_at,updated_at
+0,5,/Volumes/pte/content/upload/watchfolder/touchdown_pass_1080p_crf20.mp4,QuickTime / MOV,19,41249088,17350686,h264,High 4:2:2,1920,1080,1:1,16:9,17347363,30000/1001,2019-04-05 14:00:26,2019-04-05 14:00:26
+1,6,/Volumes/pte/content/upload/watchfolder/aspen_1080p_crf5.mp4,QuickTime / MOV,19,378608416,159254815,h264,High 4:2:2,1920,1080,1:1,16:9,159250292,30000/1001,2019-04-05 14:01:53,2019-04-05 14:01:53
+2,7,/Volumes/pte/content/upload/watchfolder/freeriding_crf18.mp4,QuickTime / MOV,182,281454443,12370128,h264,High 4:4:4 Predictive,1920,1080,1:1,16:9,12292351,50/1,2019-04-05 14:03:19,2019-04-05 14:03:19
+3,8,/Volumes/pte/content/upload/watchfolder/controlled_burn_crf5.mp4,QuickTime / MOV,19,280986702,118191998,h264,High 4:2:2,1920,1080,1:1,16:9,118187028,30000/1001,2019-04-05 14:03:48,2019-04-05 14:03:48
+4,9,/Volumes/pte/content/upload/watchfolder/aspen_1080p_crf10.mp4,QuickTime / MOV,19,231039918,97182782,h264,High 4:2:2,1920,1080,1:1,16:9,97178756,30000/1001,2019-04-05 14:03:59,2019-04-05 14:03:59
+5,10,/Volumes/pte/content/upload/watchfolder/controlled_burn_crf10.mp4,QuickTime / MOV,19,149660045,62951803,h264,High 4:2:2,1920,1080,1:1,16:9,62948169,30000/1001,2019-04-05 14:04:09,2019-04-05 14:04:09
+6,11,/Volumes/pte/content/upload/watchfolder/aspen_1080p_crf20.mp4,QuickTime / MOV,19,50083046,21066531,h264,High 4:2:2,1920,1080,1:1,16:9,21063028,30000/1001,2019-04-05 14:04:12,2019-04-05 14:04:12
+7,12,/Volumes/pte/content/upload/watchfolder/controlled_burn_crf20.mp4,QuickTime / MOV,19,33240115,13981856,h264,High 4:2:2,1920,1080,1:1,16:9,13978583,30000/1001,2019-04-05 14:04:15,2019-04-05 14:04:15
+8,13,/Volumes/pte/content/upload/watchfolder/speed_bag_1080p_crf20.mp4,QuickTime / MOV,19,23779660,10002485,h264,High 4:2:2,1920,1080,1:1,16:9,9999509,30000/1001,2019-04-05 14:04:15,2019-04-05 14:04:15
+9,15,/Volumes/pte/content/upload/watchfolder/stuber-trailer-1_h1080p.mov,QuickTime / MOV,122,143838227,9422592,h264,Main,1920,816,1:1,40:17,9293714,24000/1001,2019-04-08 07:25:43,2019-04-08 07:25:43
+10,16,/Volumes/pte/content/upload/watchfolder/dead-trigger-trailer-1_h1080p.mov,QuickTime / MOV,78,97212570,9934026,h264,Main,1920,816,1:1,40:17,9803893,24000/1001,2019-04-08 07:25:49,2019-04-08 07:25:49
+11,29,/Volumes/pte/content/upload/watchfolder/rottentail-trailer-1_h1080p.mov,QuickTime / MOV,81,93519999,9251109,h264,Main,1920,816,1:1,40:17,9123181,24000/1001,2019-04-10 07:28:21,2019-04-10 07:28:21
+12,30,/Volumes/pte/content/upload/watchfolder/wild-rose-trailer-1_h1080p.mov,QuickTime / MOV,121,145746701,9609672,h264,Main,1920,816,1:1,40:17,9478845,24/1,2019-04-10 08:33:34,2019-04-10 08:33:34
+13,31,/Volumes/pte/content/upload/watchfolder/the-public-trailer-1_h1080p.mov,QuickTime / MOV,151,182468913,9646921,h264,Main,1920,1056,N/A,N/A,9516421,24000/1001,2019-04-10 08:33:36,2019-04-10 08:33:36
+14,32,/Volumes/pte/content/upload/watchfolder/my-spy-trailer-1_h1080p.mov,QuickTime / MOV,141,178911467,10164894,h264,Main,1920,816,1:1,40:17,10038881,24000/1001,2019-04-10 08:33:39,2019-04-10 08:33:39
+15,33,/Volumes/pte/content/upload/watchfolder/trial-by-fire-trailer-1_h1080p.mov,QuickTime / MOV,149,178489768,9581807,h264,Main,1920,1056,1:1,20:11,9451962,24000/1001,2019-04-10 08:33:42,2019-04-10 08:33:42
+16,34,/Volumes/pte/content/upload/watchfolder/mary-magdalene-trailer-1_h1080p.mov,QuickTime / MOV,145,179545980,9876223,h264,Main,1920,816,1:1,40:17,9745087,24000/1001,2019-04-10 08:33:46,2019-04-10 08:33:46
+17,35,/Volumes/pte/content/upload/watchfolder/daddy-issues-trailer-1_h1080p.mov,QuickTime / MOV,111,133146067,9637172,h264,Main,1920,816,N/A,N/A,9494037,24000/1001,2019-04-10 08:33:49,2019-04-10 08:33:49
+18,36,/Volumes/pte/content/upload/watchfolder/scary-stories-to-tell-in-the-dark-trailer-1_h1080p.mov,QuickTime / MOV,105,118890220,9017049,h264,Main,1920,816,N/A,N/A,8888802,24000/1001,2019-04-10 13:02:20,2019-04-10 13:02:20
+19,38,/Volumes/pte/content/upload/watchfolder/annabelle-comes-home-trailer-1_h1080p.mov,QuickTime / MOV,150,177944733,9480904,h264,Main,1920,816,N/A,N/A,9354993,24000/1001,2019-04-10 13:02:36,2019-04-10 13:02:36
+20,39,/Volumes/pte/content/upload/watchfolder/making-babies-trailer-1_h1080p.mov,QuickTime / MOV,133,163574997,9826189,h264,Main,1920,1056,N/A,N/A,9691161,24000/1001,2019-04-10 13:02:43,2019-04-10 13:02:43
+21,40,/Volumes/pte/content/upload/watchfolder/stockholm-trailer-1-235_h1080p.mov,QuickTime / MOV,131,157641809,9623485,h264,Main,1920,816,N/A,N/A,9475505,24000/1001,2019-04-10 13:02:49,2019-04-10 13:02:49
+22,41,/Volumes/pte/content/upload/watchfolder/the-brink-trailer-1b_h1080p.mov,QuickTime / MOV,133,166278221,9988576,h264,Main,1920,1080,N/A,N/A,9854594,24000/1001,2019-04-10 13:02:52,2019-04-10 13:02:52
+23,42,/Volumes/pte/content/upload/watchfolder/the-beach-bum-trailer-2_h1080p.mov,QuickTime / MOV,145,162586071,8963880,h264,Main,1920,816,N/A,N/A,8825760,24000/1001,2019-04-10 13:02:56,2019-04-10 13:02:56
+24,43,/Volumes/pte/content/upload/watchfolder/the-tomorrow-man-trailer-1_h1080p.mov,QuickTime / MOV,149,179144596,9595476,h264,Main,1920,816,N/A,N/A,9465159,24000/1001,2019-04-10 13:02:59,2019-04-10 13:02:59
+25,44,/Volumes/pte/content/upload/watchfolder/relaxer-trailer-1_h1080p.mov,QuickTime / MOV,113,135736219,9621329,h264,Main,1920,1056,N/A,N/A,9465490,24000/1001,2019-04-10 13:03:04,2019-04-10 13:03:04
+26,45,/Volumes/pte/content/upload/watchfolder/el-chicano-trailer-1_h1080p.mov,QuickTime / MOV,135,161201279,9569707,h264,Main,1920,816,N/A,N/A,9439421,24000/1001,2019-04-10 13:03:04,2019-04-10 13:03:04
+27,46,/Volumes/pte/content/upload/watchfolder/pet-sematary-trailer-2_h1080p.mov,QuickTime / MOV,150,181106374,9649357,h264,Main,1920,816,N/A,N/A,9518786,24000/1001,2019-04-10 13:56:26,2019-04-10 13:56:26
+28,47,/Volumes/pte/content/upload/watchfolder/meeting-gorbachev-trailer-1b_h1080p.mov,QuickTime / MOV,125,151861446,9709811,h264,Main,1920,1080,N/A,N/A,9574290,25/1,2019-04-10 13:56:28,2019-04-10 13:56:28
+29,48,/Volumes/pte/content/upload/watchfolder/uglydolls-trailer-2_h1080p.mov,QuickTime / MOV,166,196178369,9478169,h264,Main,1920,1056,N/A,N/A,9349546,24/1,2019-04-10 13:56:35,2019-04-10 13:56:35
+30,49,/Volumes/pte/content/upload/watchfolder/screwball-trailer-1b_h1080p.mov,QuickTime / MOV,138,171010084,9891777,h264,Main,1920,1080,N/A,N/A,9757895,24000/1001,2019-04-10 13:56:38,2019-04-10 13:56:38
+31,50,/Volumes/pte/content/upload/watchfolder/biggest-little-farm-trailer-1_h1080p.mov,QuickTime / MOV,149,179155132,9609458,h264,Main,1920,816,1:1,40:17,9474228,24000/1001,2019-04-10 13:56:44,2019-04-10 13:56:44
+32,83,/Volumes/pte/content/upload/ytdl--40uOVBYUms.mp4,QuickTime / MOV,119,33655192,2264094,h264,High,1920,1080,N/A,N/A,2264094,30000/1001,2019-04-29 10:57:28,2019-04-29 10:57:28
+33,84,/Volumes/pte/content/upload/ytdl-88O_UD4PodA.mp4,QuickTime / MOV,171,65945909,3089524,h264,High,1920,1080,N/A,N/A,3089524,25/1,2019-04-29 10:57:29,2019-04-29 10:57:29
+34,85,/Volumes/pte/content/upload/ytdl-Ez5rsKuNs1g.mp4,QuickTime / MOV,150,73456954,3926004,h264,High,1920,1080,1:1,16:9,3926004,30000/1001,2019-04-29 10:57:31,2019-04-29 10:57:31
+35,86,/Volumes/pte/content/upload/ytdl-LLDAbhFpgIE.mp4,Matroska / WebM,463,101533209,1753107,vp9,Profile 0,1920,1080,1:1,16:9,1753107,30000/1001,2019-04-29 10:57:32,2019-04-29 10:57:32
+36,87,/Volumes/pte/content/upload/ytdl-kIdT3YPzB2w.mp4,QuickTime / MOV,153,97638834,5117004,h264,High,1920,1080,1:1,16:9,5117004,60/1,2019-04-29 10:57:33,2019-04-29 10:57:33
+37,88,/Volumes/pte/content/upload/ytdl-nFtd2jOVjHo.mp4,QuickTime / MOV,402,194330099,3867907,h264,High,1920,1080,1:1,16:9,3867907,30/1,2019-04-29 10:57:35,2019-04-29 10:57:35

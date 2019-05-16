@@ -1,0 +1,485 @@
+,id,probability,time,image_number,value,classifier,created_at,updated_at,clip_id
+0,1,90.18107056617737,,1,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+1,2,66.77687168121338,,2,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+2,3,94.05578374862671,,4,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+3,4,90.00450372695923,,5,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+4,5,95.12900114059448,,6,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+5,6,81.69479370117188,,7,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+6,7,91.35258197784424,,8,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+7,8,82.95605778694153,,9,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+8,9,79.16394472122192,,10,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+9,10,82.41872787475586,,11,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+10,11,95.38673162460327,,12,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+11,12,91.00276827812195,,13,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+12,13,93.7044620513916,,14,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+13,14,88.86460065841675,,15,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+14,15,88.3306086063385,,16,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+15,16,90.31016826629639,,17,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+16,17,50.1612663269043,,22,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+17,18,76.42459869384766,,23,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+18,19,75.42020678520203,,24,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+19,20,84.9357008934021,,25,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+20,21,94.75650191307068,,26,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+21,22,89.2260193824768,,27,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+22,23,89.78281021118164,,28,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+23,24,80.85760474205017,,29,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+24,25,91.95833206176758,,30,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+25,26,94.23364400863647,,31,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+26,27,90.10129570960999,,32,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+27,28,76.30661725997925,,33,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+28,29,58.49052667617798,,34,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+29,30,71.71289920806885,,35,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+30,31,79.65801954269409,,36,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+31,32,69.7805643081665,,37,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+32,33,43.452292680740356,,41,"lighter, light, igniter, ignitor",image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+33,34,46.675023436546326,,42,beaker,image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+34,35,49.14402663707733,,44,beaker,image_classifier_mobilenet,2019-04-08 07:23:42,2019-04-08 07:23:42,
+35,36,55.021852254867554,,15,"chime, bell, gong",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+36,37,57.83969163894653,,17,"chime, bell, gong",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+37,38,60.7485830783844,,26,"spider web, spider's web",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+38,39,68.54081153869629,,27,"spider web, spider's web",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+39,40,50.75898766517639,,28,"spider web, spider's web",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+40,41,55.893492698669434,,31,"spider web, spider's web",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+41,42,56.16450309753418,,37,"chime, bell, gong",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+42,43,60.9882652759552,,50,"flagpole, flagstaff",image_classifier_mobilenet,2019-04-08 07:59:45,2019-04-08 07:59:45,5.0
+43,44,56.76724314689636,,6,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-08 11:24:50,2019-04-08 11:24:50,8.0
+44,45,57.047224044799805,,31,"African chameleon, Chamaeleo chamaeleon",image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+45,46,81.72518610954285,,33,"African chameleon, Chamaeleo chamaeleon",image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+46,47,87.86305785179138,,42,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+47,48,97.5171685218811,,43,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+48,49,95.57284712791443,,44,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+49,50,90.23096561431885,,45,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+50,51,98.12841415405273,,46,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+51,52,96.53523564338684,,47,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+52,53,97.73568511009216,,48,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+53,54,96.96086049079895,,49,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+54,55,96.6410756111145,,50,rapeseed,image_classifier_mobilenet,2019-04-09 09:21:05,2019-04-09 09:21:05,6.0
+55,56,50.994694232940674,,7,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+56,57,54.05662655830383,,8,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+57,58,50.64289569854736,,10,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+58,59,55.13305068016052,,44,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+59,60,67.30465888977051,,45,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+60,61,62.39473819732666,,46,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+61,62,51.478976011276245,,47,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+62,63,68.15136075019836,,48,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+63,64,69.50997710227966,,49,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+64,65,68.65025162696838,,50,monastery,image_classifier_mobilenet,2019-04-09 09:21:53,2019-04-09 09:21:53,8.0
+65,66,56.39352202415466,,31,"African chameleon, Chamaeleo chamaeleon",image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+66,67,73.3519434928894,,33,"African chameleon, Chamaeleo chamaeleon",image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+67,68,90.23750424385071,,42,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+68,69,97.02468514442444,,43,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+69,70,95.86852788925171,,44,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+70,71,91.70497059822083,,45,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+71,72,97.27112650871277,,46,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+72,73,95.53220868110657,,47,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+73,74,97.33589887619019,,48,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+74,75,97.14152812957764,,49,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+75,76,96.1688756942749,,50,rapeseed,image_classifier_mobilenet,2019-04-09 09:22:41,2019-04-09 09:22:41,9.0
+76,77,56.976163387298584,,2,window screen,image_classifier_mobilenet,2019-04-09 09:23:06,2019-04-09 09:23:06,7.0
+77,78,53.84962558746338,,20,"jinrikisha, ricksha, rickshaw",image_classifier_mobilenet,2019-04-09 09:23:06,2019-04-09 09:23:06,7.0
+78,79,50.38602948188782,,21,cowboy boot,image_classifier_mobilenet,2019-04-09 09:23:06,2019-04-09 09:23:06,7.0
+79,80,53.354138135910034,,15,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+80,81,56.46353363990784,,31,"African chameleon, Chamaeleo chamaeleon",image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+81,82,74.81808066368103,,33,"African chameleon, Chamaeleo chamaeleon",image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+82,83,84.30156707763672,,42,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+83,84,97.6468026638031,,43,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+84,85,96.69740200042725,,44,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+85,86,90.35781025886536,,45,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+86,87,97.93573021888733,,46,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+87,88,93.03005933761597,,47,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+88,89,96.95457220077515,,48,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+89,90,95.71084976196289,,49,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+90,91,96.24879360198975,,50,rapeseed,image_classifier_mobilenet,2019-04-09 11:00:29,2019-04-09 11:00:29,11.0
+91,92,53.34406495094299,,10,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+92,93,51.05493664741516,,26,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+93,94,51.841431856155396,,27,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+94,95,59.60792303085327,,44,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+95,96,60.535699129104614,,45,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+96,97,52.85130739212036,,46,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+97,98,59.377628564834595,,47,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+98,99,50.98550319671631,,48,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+99,100,69.91045475006104,,49,monastery,image_classifier_mobilenet,2019-04-09 11:00:44,2019-04-09 11:00:44,12.0
+100,101,67.63725280761719,,17,"cab, hack, taxi, taxicab",image_classifier_mobilenet,2019-04-09 11:31:22,2019-04-09 11:31:22,15.0
+101,102,53.4991979598999,,18,fountain,image_classifier_mobilenet,2019-04-09 11:31:22,2019-04-09 11:31:22,15.0
+102,103,62.641751766204834,,46,spatula,image_classifier_mobilenet,2019-04-09 11:31:22,2019-04-09 11:31:22,15.0
+103,104,55.533093214035034,,48,hourglass,image_classifier_mobilenet,2019-04-09 11:31:22,2019-04-09 11:31:22,15.0
+104,105,74.49491620063782,,16,"spotlight, spot",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+105,106,53.82606387138367,,37,"barn spider, Araneus cavaticus",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+106,107,59.803056716918945,,39,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+107,108,83.03196430206299,,47,"prison, prison house",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+108,109,61.5170955657959,,48,"prison, prison house",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+109,110,82.68538117408752,,49,"prison, prison house",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+110,111,78.836590051651,,50,"prison, prison house",image_classifier_mobilenet,2019-04-09 11:31:47,2019-04-09 11:31:47,16.0
+111,112,56.917887926101685,,8,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+112,113,89.59531784057617,,9,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+113,114,74.01987314224243,,23,"spotlight, spot",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+114,115,91.13652110099792,,24,"spotlight, spot",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+115,116,66.01847410202026,,26,matchstick,image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+116,117,55.89978098869324,,33,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+117,118,60.930418968200684,,34,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+118,119,56.148600578308105,,37,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+119,120,89.47347402572632,,38,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+120,121,75.02171397209167,,39,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+121,122,53.474968671798706,,49,rifle,image_classifier_mobilenet,2019-04-09 11:32:16,2019-04-09 11:32:16,
+122,123,63.62912654876709,,48,harp,image_classifier_mobilenet,2019-04-09 11:32:32,2019-04-09 11:32:32,
+123,124,76.43108367919922,,3,wig,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+124,125,67.35306978225708,,4,wig,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+125,126,59.01665687561035,,6,wig,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+126,127,73.6297607421875,,7,wig,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+127,128,54.4822096824646,,13,fountain,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+128,129,56.204742193222046,,8,wig,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+129,130,50.18547773361206,,18,hair spray,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+130,131,78.21375131607056,,29,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+131,132,50.48593282699585,,30,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+132,133,62.338173389434814,,33,wig,image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+133,134,54.119402170181274,,49,"streetcar, tram, tramcar, trolley, trolley car",image_classifier_mobilenet,2019-04-09 11:32:50,2019-04-09 11:32:50,
+134,135,62.0292067527771,,14,"suit, suit of clothes",image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+135,136,90.39021730422974,,15,"fire screen, fireguard",image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+136,137,77.81548500061035,,25,"fire screen, fireguard",image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+137,138,69.35886740684509,,26,fountain,image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+138,139,96.34770154953003,,28,fountain,image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+139,140,80.98061084747314,,35,"prison, prison house",image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+140,141,55.79496622085571,,37,abaya,image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+141,142,61.22031211853027,,49,shovel,image_classifier_mobilenet,2019-04-09 11:33:18,2019-04-09 11:33:18,
+142,143,90.18107056617737,,1,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+143,144,66.77687168121338,,2,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+144,145,94.05578374862671,,4,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+145,146,90.00450372695923,,5,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+146,147,95.12900114059448,,6,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+147,148,81.69479370117188,,7,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+148,149,91.35258197784424,,8,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+149,150,82.95605778694153,,9,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+150,151,79.16394472122192,,10,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+151,152,82.41872787475586,,11,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+152,153,95.38673162460327,,12,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+153,154,91.00276827812195,,13,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+154,155,93.7044620513916,,14,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+155,156,88.86460065841675,,15,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+156,157,88.3306086063385,,16,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+157,158,90.31016826629639,,17,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+158,159,50.1612663269043,,22,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+159,160,76.42459869384766,,23,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+160,161,75.42020678520203,,24,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+161,162,84.9357008934021,,25,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+162,163,94.75650191307068,,26,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+163,164,89.2260193824768,,27,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+164,165,89.78281021118164,,28,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+165,166,80.85760474205017,,29,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+166,167,91.95833206176758,,30,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+167,168,94.23364400863647,,31,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+168,169,90.10129570960999,,32,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+169,170,76.30661725997925,,33,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+170,171,58.49052667617798,,34,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+171,172,71.71289920806885,,35,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+172,173,79.65801954269409,,36,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+173,174,69.7805643081665,,37,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-09 11:33:20,2019-04-09 11:33:20,13.0
+174,175,85.06799340248108,,10,"prison, prison house",image_classifier_mobilenet,2019-04-09 11:33:56,2019-04-09 11:33:56,
+175,176,92.93863773345947,,21,"cinema, movie theater, movie theatre, movie house, picture palace",image_classifier_mobilenet,2019-04-09 11:33:56,2019-04-09 11:33:56,
+176,177,70.16794681549072,,30,palace,image_classifier_mobilenet,2019-04-09 11:33:56,2019-04-09 11:33:56,
+177,178,52.30276584625244,,40,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-09 11:33:56,2019-04-09 11:33:56,
+178,179,63.567930459976196,,41,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-09 11:33:56,2019-04-09 11:33:56,
+179,180,54.994940757751465,,7,steel arch bridge,image_classifier_mobilenet,2019-04-09 11:34:02,2019-04-09 11:34:02,
+180,181,60.515326261520386,,44,palace,image_classifier_mobilenet,2019-04-09 11:34:02,2019-04-09 11:34:02,
+181,182,60.33645272254944,,45,palace,image_classifier_mobilenet,2019-04-09 11:34:02,2019-04-09 11:34:02,
+182,183,60.81588268280029,,50,"spider web, spider's web",image_classifier_mobilenet,2019-04-09 11:34:02,2019-04-09 11:34:02,
+183,184,41.04939103126526,,5,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+184,185,56.917887926101685,,8,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+185,186,89.59531784057617,,9,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+186,187,48.64991903305054,,10,"prison, prison house",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+187,188,74.01987314224243,,23,"spotlight, spot",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+188,189,91.13652110099792,,24,"spotlight, spot",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+189,190,66.01847410202026,,26,matchstick,image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+190,191,55.89978098869324,,33,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+191,192,60.930418968200684,,34,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+192,193,56.148600578308105,,37,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+193,194,89.47347402572632,,38,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+194,195,75.02171397209167,,39,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+195,196,53.474968671798706,,49,rifle,image_classifier_mobilenet,2019-04-10 07:29:04,2019-04-10 07:29:04,29.0
+196,197,54.994940757751465,,7,steel arch bridge,image_classifier_mobilenet,2019-04-10 08:35:08,2019-04-10 08:35:08,31.0
+197,198,49.706441164016724,,13,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-10 08:35:08,2019-04-10 08:35:08,31.0
+198,199,48.10808300971985,,11,"bannister, banister, balustrade, balusters, handrail",image_classifier_mobilenet,2019-04-10 08:35:08,2019-04-10 08:35:08,31.0
+199,200,60.515326261520386,,44,palace,image_classifier_mobilenet,2019-04-10 08:35:08,2019-04-10 08:35:08,31.0
+200,201,60.33645272254944,,45,palace,image_classifier_mobilenet,2019-04-10 08:35:08,2019-04-10 08:35:08,31.0
+201,202,60.81588268280029,,50,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 08:35:08,2019-04-10 08:35:08,31.0
+202,203,62.0292067527771,,14,"suit, suit of clothes",image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+203,204,90.39021730422974,,15,"fire screen, fireguard",image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+204,205,77.81548500061035,,25,"fire screen, fireguard",image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+205,206,69.35886740684509,,26,fountain,image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+206,207,96.34770154953003,,28,fountain,image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+207,208,80.98061084747314,,35,"prison, prison house",image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+208,209,55.79496622085571,,37,abaya,image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+209,210,44.26504969596863,,42,scoreboard,image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+210,211,61.22031211853027,,49,shovel,image_classifier_mobilenet,2019-04-10 08:36:58,2019-04-10 08:36:58,32.0
+211,212,85.06799340248108,,10,"prison, prison house",image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+212,213,46.06402516365051,,17,"prison, prison house",image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+213,214,40.07764458656311,,20,"cinema, movie theater, movie theatre, movie house, picture palace",image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+214,215,92.93863773345947,,21,"cinema, movie theater, movie theatre, movie house, picture palace",image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+215,216,70.16794681549072,,30,palace,image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+216,217,52.30276584625244,,40,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+217,218,63.567930459976196,,41,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-10 08:38:35,2019-04-10 08:38:35,30.0
+218,219,59.1758131980896,,6,fountain,image_classifier_mobilenet,2019-04-10 08:39:09,2019-04-10 08:39:09,33.0
+219,220,46.72272205352783,,7,fountain,image_classifier_mobilenet,2019-04-10 08:39:09,2019-04-10 08:39:09,33.0
+220,221,63.513875007629395,,17,"beacon, lighthouse, beacon light, pharos",image_classifier_mobilenet,2019-04-10 08:39:09,2019-04-10 08:39:09,33.0
+221,222,46.41278088092804,,18,"prison, prison house",image_classifier_mobilenet,2019-04-10 08:39:09,2019-04-10 08:39:09,33.0
+222,223,79.76201176643372,,22,"prison, prison house",image_classifier_mobilenet,2019-04-10 08:39:09,2019-04-10 08:39:09,33.0
+223,224,48.76209497451782,,38,"quilt, comforter, comfort, puff",image_classifier_mobilenet,2019-04-10 08:39:09,2019-04-10 08:39:09,33.0
+224,225,48.00221920013428,,2,hair spray,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+225,226,46.7497318983078,,2,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+226,227,76.43108367919922,,3,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+227,228,67.35306978225708,,4,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+228,229,44.7959303855896,,5,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+229,230,59.01665687561035,,6,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+230,231,73.6297607421875,,7,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+231,232,56.204742193222046,,8,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+232,233,41.846764087677,,10,hair spray,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+233,234,54.4822096824646,,13,fountain,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+234,235,50.18547773361206,,18,hair spray,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+235,236,78.21375131607056,,29,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+236,237,50.48593282699585,,30,"theater curtain, theatre curtain",image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+237,238,54.119402170181274,,49,"streetcar, tram, tramcar, trolley, trolley car",image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+238,239,62.338173389434814,,33,wig,image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+239,240,48.49386215209961,,50,"streetcar, tram, tramcar, trolley, trolley car",image_classifier_mobilenet,2019-04-10 08:40:07,2019-04-10 08:40:07,35.0
+240,241,63.62912654876709,,48,harp,image_classifier_mobilenet,2019-04-10 08:40:12,2019-04-10 08:40:12,34.0
+241,242,47.120752930641174,,5,minivan,image_classifier_mobilenet,2019-04-10 13:04:11,2019-04-10 13:04:11,
+242,243,83.35630297660828,,31,"cab, hack, taxi, taxicab",image_classifier_mobilenet,2019-04-10 13:04:11,2019-04-10 13:04:11,
+243,244,46.19596004486084,,36,trench coat,image_classifier_mobilenet,2019-04-10 13:04:11,2019-04-10 13:04:11,
+244,245,47.524940967559814,,37,trench coat,image_classifier_mobilenet,2019-04-10 13:04:11,2019-04-10 13:04:11,
+245,246,50.28555393218994,,12,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+246,247,64.57938551902771,,13,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+247,248,65.16836881637573,,17,"spotlight, spot",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+248,249,84.46275591850281,,19,"brass, memorial tablet, plaque",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+249,250,84.48547720909119,,20,"brass, memorial tablet, plaque",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+250,251,55.42278289794922,,21,"brass, memorial tablet, plaque",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+251,252,58.75474214553833,,22,"brass, memorial tablet, plaque",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+252,253,73.066246509552,,27,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+253,254,45.0149804353714,,36,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+254,255,49.033451080322266,,37,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+255,256,40.3192400932312,,48,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+256,257,74.50507879257202,,50,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 13:05:46,2019-04-10 13:05:46,38.0
+257,258,52.84223556518555,,1,"organ, pipe organ",image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+258,259,46.51172757148743,,3,altar,image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+259,260,43.01455020904541,,9,"groom, bridegroom",image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+260,261,52.74657607078552,,10,"groom, bridegroom",image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+261,262,40.23600220680237,,13,"prison, prison house",image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+262,263,59.034109115600586,,16,digital clock,image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+263,264,44.949689507484436,,24,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+264,265,62.66648769378662,,33,harp,image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+265,266,68.95990371704102,,42,"lab coat, laboratory coat",image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+266,267,40.4523491859436,,43,stethoscope,image_classifier_mobilenet,2019-04-10 13:06:59,2019-04-10 13:06:59,39.0
+267,268,86.46334409713745,,16,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:07:00,2019-04-10 13:07:00,36.0
+268,269,50.45849680900574,,18,steam locomotive,image_classifier_mobilenet,2019-04-10 13:07:00,2019-04-10 13:07:00,36.0
+269,270,48.450133204460144,,31,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:07:00,2019-04-10 13:07:00,36.0
+270,271,42.43617057800293,,47,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 13:07:00,2019-04-10 13:07:00,36.0
+271,272,49.6908962726593,,11,gondola,image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+272,273,57.67049193382263,,23,"projectile, missile",image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+273,274,48.09693694114685,,25,fountain,image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+274,275,90.6730592250824,,30,"butcher shop, meat market",image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+275,276,89.21359777450562,,31,"butcher shop, meat market",image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+276,277,80.54859638214111,,36,gondola,image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+277,278,53.43387722969055,,37,gondola,image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+278,279,41.49925708770752,,47,fountain,image_classifier_mobilenet,2019-04-10 13:08:49,2019-04-10 13:08:49,42.0
+279,280,53.511595726013184,,6,"prison, prison house",image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+280,281,75.20201206207275,,10,harp,image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+281,282,43.4767484664917,,14,"maze, labyrinth",image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+282,283,60.56676506996155,,27,fountain,image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+283,284,67.54192113876343,,30,gown,image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+284,285,63.415586948394775,,34,"barn spider, Araneus cavaticus",image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+285,286,63.14142942428589,,49,"balance beam, beam",image_classifier_mobilenet,2019-04-10 13:08:57,2019-04-10 13:08:57,43.0
+286,287,58.00696015357971,,4,boathouse,image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+287,288,46.84818685054779,,6,window shade,image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+288,289,68.04147958755493,,8,fountain,image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+289,290,58.451491594314575,,12,"lakeside, lakeshore",image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+290,291,54.932403564453125,,16,window shade,image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+291,292,41.60137176513672,,17,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+292,293,44.99635398387909,,36,trench coat,image_classifier_mobilenet,2019-04-10 13:09:47,2019-04-10 13:09:47,44.0
+293,294,87.79948353767395,,18,suspension bridge,image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+294,295,62.884944677352905,,20,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+295,296,71.76517248153687,,21,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+296,297,43.39042603969574,,30,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+297,298,73.19191694259644,,32,digital clock,image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+298,299,86.58332228660583,,33,digital clock,image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+299,300,53.21003198623657,,34,fountain,image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+300,301,66.55834913253784,,41,"prison, prison house",image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+301,302,59.107065200805664,,44,"prison, prison house",image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+302,303,44.68985199928284,,45,"suit, suit of clothes",image_classifier_mobilenet,2019-04-10 13:10:42,2019-04-10 13:10:42,45.0
+303,304,88.03852796554565,,28,"prison, prison house",image_classifier_mobilenet,2019-04-10 13:58:02,2019-04-10 13:58:02,47.0
+304,305,46.466147899627686,,41,envelope,image_classifier_mobilenet,2019-04-10 13:58:02,2019-04-10 13:58:02,47.0
+305,306,68.96727085113525,,7,suspension bridge,image_classifier_mobilenet,2019-04-10 13:58:22,2019-04-10 13:58:22,46.0
+306,307,64.35602307319641,,37,fountain,image_classifier_mobilenet,2019-04-10 13:58:22,2019-04-10 13:58:22,46.0
+307,308,79.69107031822205,,47,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 13:58:22,2019-04-10 13:58:22,46.0
+308,309,64.87104296684265,,50,digital clock,image_classifier_mobilenet,2019-04-10 13:58:22,2019-04-10 13:58:22,46.0
+309,310,96.82936668395996,,6,digital clock,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+310,311,74.61550235748291,,11,"spider web, spider's web",image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+311,312,49.12715554237366,,12,digital clock,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+312,313,52.1300733089447,,16,tennis ball,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+313,314,74.41418170928955,,17,tennis ball,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+314,315,45.578235387802124,,21,balloon,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+315,316,72.92749881744385,,22,"fire screen, fireguard",image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+316,317,75.73691606521606,,26,ski mask,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+317,318,62.881046533584595,,27,castle,image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+318,319,78.80779504776001,,28,"spotlight, spot",image_classifier_mobilenet,2019-04-10 14:00:51,2019-04-10 14:00:51,48.0
+319,320,88.78980278968811,,1,pier,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+320,321,61.17122769355774,,11,"ballplayer, baseball player",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+321,322,56.46466612815857,,16,"lab coat, laboratory coat",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+322,323,41.905030608177185,,17,"lab coat, laboratory coat",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+323,324,44.47755813598633,,20,sweatshirt,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+324,325,68.02142858505249,,25,"seashore, coast, seacoast, sea-coast",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+325,326,76.24369263648987,,27,comic book,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+326,327,44.99480724334717,,24,crutch,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+327,328,43.442222476005554,,30,"prison, prison house",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+328,329,46.713900566101074,,31,"suit, suit of clothes",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+329,330,80.38897514343262,,32,"lab coat, laboratory coat",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+330,331,87.95075416564941,,33,"lab coat, laboratory coat",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+331,332,86.98264956474304,,34,"flute, transverse flute",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+332,333,54.26840782165527,,38,"suit, suit of clothes",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+333,334,82.21666216850281,,45,digital clock,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+334,335,54.49187159538269,,46,street sign,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+335,336,51.960718631744385,,47,barbershop,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+336,337,66.72861576080322,,48,bow,image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+337,338,87.09611892700195,,49,"ballplayer, baseball player",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+338,339,49.959081411361694,,50,"ballplayer, baseball player",image_classifier_mobilenet,2019-04-10 14:01:02,2019-04-10 14:01:02,49.0
+339,340,96.2397038936615,,6,"cinema, movie theater, movie theatre, movie house, picture palace",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+340,341,88.48287463188171,,7,"cinema, movie theater, movie theatre, movie house, picture palace",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+341,342,42.05006957054138,,16,"garden spider, Aranea diademata",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+342,343,43.711018562316895,,24,canoe,image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+343,344,50.2621591091156,,32,"ear, spike, capitulum",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+344,345,50.276970863342285,,34,"ear, spike, capitulum",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+345,346,41.90630912780762,,35,"maze, labyrinth",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+346,347,54.937171936035156,,36,head cabbage,image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+347,348,87.56810426712036,,38,"American egret, great white heron, Egretta albus",image_classifier_mobilenet,2019-04-10 14:04:51,2019-04-10 14:04:51,50.0
+348,349,53.690510988235474,,1,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+349,350,53.68211269378662,,2,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+350,351,43.70660185813904,,21,parking meter,image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+351,352,40.92918634414673,,32,"punching bag, punch bag, punching ball, punchball",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+352,353,46.08731269836426,,38,"organ, pipe organ",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+353,354,45.29666006565094,,44,"bannister, banister, balustrade, balusters, handrail",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+354,355,40.436649322509766,,45,"bannister, banister, balustrade, balusters, handrail",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+355,356,67.3488974571228,,46,"cab, hack, taxi, taxicab",image_classifier_mobilenet,2019-04-10 14:07:12,2019-04-10 14:07:12,40.0
+356,357,40.375033020973206,,13,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+357,358,64.02093172073364,,14,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+358,359,53.37485074996948,,15,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+359,360,50.64660906791687,,16,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+360,361,57.418763637542725,,17,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+361,362,40.64845144748688,,18,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+362,363,55.62235116958618,,19,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+363,364,49.35627579689026,,20,mask,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+364,365,62.123990058898926,,31,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+365,366,53.44060659408569,,35,"spotlight, spot",image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+366,367,48.103174567222595,,39,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+367,368,50.26460289955139,,40,"wardrobe, closet, press",image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+368,369,97.55949378013611,,43,suspension bridge,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+369,370,54.103970527648926,,45,chainlink fence,image_classifier_mobilenet,2019-04-10 14:09:44,2019-04-10 14:09:44,41.0
+370,371,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-25 11:38:11,2019-04-25 11:38:11,
+371,372,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-25 11:38:11,2019-04-25 11:38:11,
+372,373,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-25 11:38:11,2019-04-25 11:38:11,
+373,374,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-25 11:38:11,2019-04-25 11:38:11,
+374,375,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-25 12:05:33,2019-04-25 12:05:33,
+375,376,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-25 12:05:33,2019-04-25 12:05:33,
+376,377,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-25 12:05:33,2019-04-25 12:05:33,
+377,378,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-25 12:05:33,2019-04-25 12:05:33,
+378,379,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 07:57:31,2019-04-26 07:57:31,
+379,380,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 07:57:31,2019-04-26 07:57:31,
+380,381,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 07:57:31,2019-04-26 07:57:31,
+381,382,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 07:57:31,2019-04-26 07:57:31,
+382,383,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 08:03:59,2019-04-26 08:03:59,
+383,384,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 08:03:59,2019-04-26 08:03:59,
+384,385,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 08:03:59,2019-04-26 08:03:59,
+385,386,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 08:03:59,2019-04-26 08:03:59,
+386,387,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 09:25:53,2019-04-26 09:25:53,
+387,388,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 09:25:53,2019-04-26 09:25:53,
+388,389,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 09:25:53,2019-04-26 09:25:53,
+389,390,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 09:25:53,2019-04-26 09:25:53,
+390,391,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 09:33:19,2019-04-26 09:33:19,
+391,392,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 09:33:19,2019-04-26 09:33:19,
+392,393,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 09:33:19,2019-04-26 09:33:19,
+393,394,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 09:33:19,2019-04-26 09:33:19,
+394,395,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 09:54:18,2019-04-26 09:54:18,
+395,396,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 09:54:18,2019-04-26 09:54:18,
+396,397,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 09:54:18,2019-04-26 09:54:18,
+397,398,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 09:54:18,2019-04-26 09:54:18,
+398,399,46.66443169116974,,3,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:27:31,2019-04-26 13:27:31,
+399,400,44.081419706344604,,4,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:27:31,2019-04-26 13:27:31,
+400,401,45.45447826385498,,5,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:27:31,2019-04-26 13:27:31,
+401,402,36.0790491104126,,6,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:27:31,2019-04-26 13:27:31,
+402,403,51.59609913825989,,7,fountain,image_classifier_mobilenet,2019-04-26 13:27:31,2019-04-26 13:27:31,
+403,404,31.87081813812256,,7,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:27:31,2019-04-26 13:27:31,
+404,405,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:27:44,2019-04-26 13:27:44,
+405,406,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 13:27:44,2019-04-26 13:27:44,
+406,407,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 13:27:44,2019-04-26 13:27:44,
+407,408,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 13:27:44,2019-04-26 13:27:44,
+408,409,41.555336117744446,,1,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:01,2019-04-26 13:28:01,
+409,410,41.05408787727356,,2,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:01,2019-04-26 13:28:01,
+410,411,45.99054455757141,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:01,2019-04-26 13:28:01,
+411,412,30.93031942844391,,4,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:01,2019-04-26 13:28:01,
+412,413,38.793423771858215,,10,"parallel bars, bars",image_classifier_mobilenet,2019-04-26 13:28:01,2019-04-26 13:28:01,
+413,414,46.66443169116974,,3,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:28:05,2019-04-26 13:28:05,
+414,415,44.081419706344604,,4,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:28:05,2019-04-26 13:28:05,
+415,416,45.45447826385498,,5,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:28:05,2019-04-26 13:28:05,
+416,417,36.0790491104126,,6,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:28:05,2019-04-26 13:28:05,
+417,418,51.59609913825989,,7,fountain,image_classifier_mobilenet,2019-04-26 13:28:05,2019-04-26 13:28:05,
+418,419,31.87081813812256,,7,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 13:28:05,2019-04-26 13:28:05,
+419,420,41.555336117744446,,1,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:21,2019-04-26 13:28:21,
+420,421,41.05408787727356,,2,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:21,2019-04-26 13:28:21,
+421,422,45.99054455757141,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:21,2019-04-26 13:28:21,
+422,423,30.93031942844391,,4,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:21,2019-04-26 13:28:21,
+423,424,38.793423771858215,,10,"parallel bars, bars",image_classifier_mobilenet,2019-04-26 13:28:21,2019-04-26 13:28:21,
+424,425,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 13:28:37,2019-04-26 13:28:37,
+425,426,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 13:28:37,2019-04-26 13:28:37,
+426,427,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 13:28:37,2019-04-26 13:28:37,
+427,428,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 13:28:37,2019-04-26 13:28:37,
+428,429,48.020121455192566,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:05:43,2019-04-26 14:05:43,
+429,430,37.9733145236969,,4,barometer,image_classifier_mobilenet,2019-04-26 14:05:43,2019-04-26 14:05:43,
+430,431,71.42882347106934,,8,"nematode, nematode worm, roundworm",image_classifier_mobilenet,2019-04-26 14:05:43,2019-04-26 14:05:43,
+431,432,36.78668141365051,,9,"chime, bell, gong",image_classifier_mobilenet,2019-04-26 14:05:43,2019-04-26 14:05:43,
+432,433,41.555336117744446,,1,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:05,2019-04-26 14:06:05,
+433,434,41.05408787727356,,2,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:05,2019-04-26 14:06:05,
+434,435,45.99054455757141,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:05,2019-04-26 14:06:05,
+435,436,30.93031942844391,,4,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:05,2019-04-26 14:06:05,
+436,437,38.793423771858215,,10,"parallel bars, bars",image_classifier_mobilenet,2019-04-26 14:06:05,2019-04-26 14:06:05,
+437,438,41.555336117744446,,1,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:06,2019-04-26 14:06:06,
+438,439,41.05408787727356,,2,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:06,2019-04-26 14:06:06,
+439,440,45.99054455757141,,3,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:06,2019-04-26 14:06:06,
+440,441,30.93031942844391,,4,"web site, website, internet site, site",image_classifier_mobilenet,2019-04-26 14:06:06,2019-04-26 14:06:06,
+441,442,38.793423771858215,,10,"parallel bars, bars",image_classifier_mobilenet,2019-04-26 14:06:06,2019-04-26 14:06:06,
+442,443,46.66443169116974,,3,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 14:06:48,2019-04-26 14:06:48,
+443,444,44.081419706344604,,4,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 14:06:48,2019-04-26 14:06:48,
+444,445,45.45447826385498,,5,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 14:06:48,2019-04-26 14:06:48,
+445,446,36.0790491104126,,6,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 14:06:48,2019-04-26 14:06:48,
+446,447,51.59609913825989,,7,fountain,image_classifier_mobilenet,2019-04-26 14:06:48,2019-04-26 14:06:48,
+447,448,31.87081813812256,,7,"solar dish, solar collector, solar furnace",image_classifier_mobilenet,2019-04-26 14:06:48,2019-04-26 14:06:48,
+448,449,56.32429122924805,,2,"spotlight, spot",image_classifier_mobilenet,2019-04-26 14:07:38,2019-04-26 14:07:38,
+449,450,32.698819041252136,,4,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-26 14:07:38,2019-04-26 14:07:38,
+450,451,46.08880877494812,,5,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-26 14:07:38,2019-04-26 14:07:38,
+451,452,37.15725243091583,,6,gondola,image_classifier_mobilenet,2019-04-26 14:07:38,2019-04-26 14:07:38,
+452,453,53.886717557907104,,8,fountain,image_classifier_mobilenet,2019-04-26 14:07:38,2019-04-26 14:07:38,
+453,454,31.365159153938293,,9,"bicycle-built-for-two, tandem bicycle, tandem",image_classifier_mobilenet,2019-04-26 14:07:38,2019-04-26 14:07:38,
+454,455,31.265443563461304,,6,screwdriver,image_classifier_mobilenet,2019-04-26 14:07:50,2019-04-26 14:07:50,
+455,456,45.07404565811157,,8,"spotlight, spot",image_classifier_mobilenet,2019-04-26 14:07:50,2019-04-26 14:07:50,
+456,457,56.38341307640076,,2,envelope,image_classifier_mobilenet,2019-04-26 14:08:16,2019-04-26 14:08:16,
+457,458,30.862078070640564,,3,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-26 14:08:16,2019-04-26 14:08:16,
+458,459,38.858479261398315,,4,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-26 14:08:16,2019-04-26 14:08:16,
+459,460,86.0907793045044,,6,"sports car, sport car",image_classifier_mobilenet,2019-04-26 14:08:16,2019-04-26 14:08:16,
+460,461,56.38341307640076,,2,envelope,image_classifier_mobilenet,2019-04-29 09:54:12,2019-04-29 09:54:12,
+461,462,30.862078070640564,,3,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-29 09:54:12,2019-04-29 09:54:12,
+462,463,38.858479261398315,,4,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-29 09:54:12,2019-04-29 09:54:12,
+463,464,86.0907793045044,,6,"sports car, sport car",image_classifier_mobilenet,2019-04-29 09:54:12,2019-04-29 09:54:12,
+464,465,56.38341307640076,,2,envelope,image_classifier_mobilenet,2019-04-29 09:54:17,2019-04-29 09:54:17,
+465,466,30.862078070640564,,3,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-29 09:54:17,2019-04-29 09:54:17,
+466,467,38.858479261398315,,4,"mobile home, manufactured home",image_classifier_mobilenet,2019-04-29 09:54:17,2019-04-29 09:54:17,
+467,468,86.0907793045044,,6,"sports car, sport car",image_classifier_mobilenet,2019-04-29 09:54:17,2019-04-29 09:54:17,
+468,469,31.265443563461304,,6,screwdriver,image_classifier_mobilenet,2019-04-29 09:54:32,2019-04-29 09:54:32,
+469,470,45.07404565811157,,8,"spotlight, spot",image_classifier_mobilenet,2019-04-29 09:54:32,2019-04-29 09:54:32,
+470,471,31.265443563461304,,6,screwdriver,image_classifier_mobilenet,2019-04-29 09:54:35,2019-04-29 09:54:35,
+471,472,45.07404565811157,,8,"spotlight, spot",image_classifier_mobilenet,2019-04-29 09:54:35,2019-04-29 09:54:35,
+472,473,56.32429122924805,,2,"spotlight, spot",image_classifier_mobilenet,2019-04-29 09:54:56,2019-04-29 09:54:56,
+473,474,32.698819041252136,,4,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-29 09:54:56,2019-04-29 09:54:56,
+474,475,46.08880877494812,,5,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-29 09:54:56,2019-04-29 09:54:56,
+475,476,37.15725243091583,,6,gondola,image_classifier_mobilenet,2019-04-29 09:54:56,2019-04-29 09:54:56,
+476,477,53.886717557907104,,8,fountain,image_classifier_mobilenet,2019-04-29 09:54:56,2019-04-29 09:54:56,
+477,478,31.365159153938293,,9,"bicycle-built-for-two, tandem bicycle, tandem",image_classifier_mobilenet,2019-04-29 09:54:56,2019-04-29 09:54:56,
+478,479,56.32429122924805,,2,"spotlight, spot",image_classifier_mobilenet,2019-04-29 09:55:01,2019-04-29 09:55:01,
+479,480,32.698819041252136,,4,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-29 09:55:01,2019-04-29 09:55:01,
+480,481,46.08880877494812,,5,"worm fence, snake fence, snake-rail fence, Virginia fence",image_classifier_mobilenet,2019-04-29 09:55:01,2019-04-29 09:55:01,
+481,482,37.15725243091583,,6,gondola,image_classifier_mobilenet,2019-04-29 09:55:01,2019-04-29 09:55:01,
+482,483,53.886717557907104,,8,fountain,image_classifier_mobilenet,2019-04-29 09:55:01,2019-04-29 09:55:01,
+483,484,31.365159153938293,,9,"bicycle-built-for-two, tandem bicycle, tandem",image_classifier_mobilenet,2019-04-29 09:55:01,2019-04-29 09:55:01,
