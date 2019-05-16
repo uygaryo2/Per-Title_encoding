@@ -12,6 +12,18 @@ WITH clip_data AS
         video_profile,
         frame_rate AS 'clip_frame_rate'
 	FROM awt.clip
+    WHERE id is not null
+),
+
+label_data AS
+(
+	SELECT 
+		l.clip_id,
+		count(distinct l.value) AS nr_of_images,
+		count(distinct l.image_number) AS nr_of_image_shifts
+	FROM awt.label as l
+	WHERE clip_id is not null
+	GROUP BY l.clip_id
 ),
 
 encode_data AS
@@ -26,6 +38,7 @@ encode_data AS
 		bitrate_video AS 'encode_bitrate_video',
         clip_id
 	FROM awt.encode
+    WHERE clip_id is not null
 )
 SELECT 
 	e.encode_id,
@@ -41,8 +54,10 @@ SELECT
     c.clip_frame_rate,
     e.crf,
     e.encode_bitrate_video,
+    l.nr_of_images,
+    l.nr_of_image_shifts,
     e.psnr,
     e.vmaf
-FROM encode_data as e, clip_data as c
+FROM encode_data as e, clip_data as c, label_data as l
 WHERE e.clip_id = c.clip_id
-AND e.clip_id = 5;
+AND l.clip_id = e.clip_id;
