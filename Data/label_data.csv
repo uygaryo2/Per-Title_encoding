@@ -1,0 +1,262 @@
+label_clip_id,label_value,maks_probability
+5,"chime, bell, gong",57.84
+5,"spider web, spider's web",68.54
+5,"flagpole, flagstaff",60.99
+8,"mobile home, manufactured home",56.77
+6,"African chameleon, Chamaeleo chamaeleon",81.73
+6,rapeseed,98.13
+8,monastery,69.51
+9,"African chameleon, Chamaeleo chamaeleon",73.35
+9,rapeseed,97.34
+7,"window screen",56.98
+7,"jinrikisha, ricksha, rickshaw",53.85
+7,"cowboy boot",50.39
+11,"spider web, spider's web",53.35
+11,"African chameleon, Chamaeleo chamaeleon",74.82
+11,rapeseed,97.94
+12,"mobile home, manufactured home",53.34
+12,monastery,69.91
+15,"cab, hack, taxi, taxicab",67.64
+15,fountain,53.50
+15,spatula,62.64
+15,hourglass,55.53
+16,"spotlight, spot",74.49
+16,"barn spider, Araneus cavaticus",53.83
+16,"spider web, spider's web",59.80
+16,"prison, prison house",83.03
+13,"punching bag, punch bag, punching ball, punchball",95.39
+29,"spider web, spider's web",89.60
+29,"prison, prison house",48.65
+29,"spotlight, spot",91.14
+29,matchstick,66.02
+29,rifle,53.47
+31,"steel arch bridge",54.99
+31,"web site, website, internet site, site",49.71
+31,"bannister, banister, balustrade, balusters, handrail",48.11
+31,palace,60.52
+31,"spider web, spider's web",60.82
+32,"suit, suit of clothes",62.03
+32,"fire screen, fireguard",90.39
+32,fountain,96.35
+32,"prison, prison house",80.98
+32,abaya,55.79
+32,scoreboard,44.27
+32,shovel,61.22
+30,"prison, prison house",85.07
+30,"cinema, movie theater, movie theatre, movie house, picture palace",92.94
+30,palace,70.17
+30,"theater curtain, theatre curtain",63.57
+33,fountain,59.18
+33,"beacon, lighthouse, beacon light, pharos",63.51
+33,"prison, prison house",79.76
+33,"quilt, comforter, comfort, puff",48.76
+35,"hair spray",50.19
+35,wig,76.43
+35,fountain,54.48
+35,"theater curtain, theatre curtain",78.21
+35,"streetcar, tram, tramcar, trolley, trolley car",54.12
+34,harp,63.63
+38,"wardrobe, closet, press",74.51
+38,"spotlight, spot",65.17
+38,"brass, memorial tablet, plaque",84.49
+38,"spider web, spider's web",73.07
+39,"organ, pipe organ",52.84
+39,altar,46.51
+39,"groom, bridegroom",52.75
+39,"prison, prison house",40.24
+39,"digital clock",59.03
+39,"wardrobe, closet, press",44.95
+39,harp,62.67
+39,"lab coat, laboratory coat",68.96
+39,stethoscope,40.45
+36,"spider web, spider's web",86.46
+36,"steam locomotive",50.46
+36,"wardrobe, closet, press",42.44
+42,gondola,80.55
+42,"projectile, missile",57.67
+42,fountain,48.10
+42,"butcher shop, meat market",90.67
+43,"prison, prison house",53.51
+43,harp,75.20
+43,"maze, labyrinth",43.48
+43,fountain,60.57
+43,gown,67.54
+43,"barn spider, Araneus cavaticus",63.42
+43,"balance beam, beam",63.14
+44,boathouse,58.01
+44,"window shade",54.93
+44,fountain,68.04
+44,"lakeside, lakeshore",58.45
+44,"spider web, spider's web",41.60
+44,"trench coat",45.00
+45,"suspension bridge",87.80
+45,"spider web, spider's web",71.77
+45,"digital clock",86.58
+45,fountain,53.21
+45,"prison, prison house",66.56
+45,"suit, suit of clothes",44.69
+47,"prison, prison house",88.04
+47,envelope,46.47
+46,"suspension bridge",68.97
+46,fountain,64.36
+46,"spider web, spider's web",79.69
+46,"digital clock",64.87
+48,"digital clock",96.83
+48,"spider web, spider's web",74.62
+48,"tennis ball",74.41
+48,balloon,45.58
+48,"fire screen, fireguard",72.93
+48,"ski mask",75.74
+48,castle,62.88
+48,"spotlight, spot",78.81
+49,pier,88.79
+49,"ballplayer, baseball player",87.10
+49,"lab coat, laboratory coat",87.95
+49,sweatshirt,44.48
+49,"seashore, coast, seacoast, sea-coast",68.02
+49,"comic book",76.24
+49,crutch,44.99
+49,"prison, prison house",43.44
+49,"suit, suit of clothes",54.27
+49,"flute, transverse flute",86.98
+49,"digital clock",82.22
+49,"street sign",54.49
+49,barbershop,51.96
+49,bow,66.73
+50,"cinema, movie theater, movie theatre, movie house, picture palace",96.24
+50,"garden spider, Aranea diademata",42.05
+50,canoe,43.71
+50,"ear, spike, capitulum",50.28
+50,"maze, labyrinth",41.91
+50,"head cabbage",54.94
+50,"American egret, great white heron, Egretta albus",87.57
+40,"web site, website, internet site, site",53.69
+40,"parking meter",43.71
+40,"punching bag, punch bag, punching ball, punchball",40.93
+40,"organ, pipe organ",46.09
+40,"bannister, banister, balustrade, balusters, handrail",45.30
+40,"cab, hack, taxi, taxicab",67.35
+41,mask,64.02
+41,"worm fence, snake fence, snake-rail fence, Virginia fence",62.12
+41,"spotlight, spot",53.44
+41,"wardrobe, closet, press",50.26
+41,"suspension bridge",97.56
+41,"chainlink fence",54.10
+85,"car wheel",87.70
+85,"sports car, sport car",80.20
+85,toaster,68.47
+84,envelope,57.64
+84,"worm fence, snake fence, snake-rail fence, Virginia fence",31.38
+84,"mobile home, manufactured home",55.49
+84,"sports car, sport car",73.83
+84,"prison, prison house",37.80
+84,"pickup, pickup truck",43.24
+84,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",34.85
+84,"cab, hack, taxi, taxicab",33.11
+84,"grille, radiator grille",72.48
+84,"crash helmet",37.17
+84,"spotlight, spot",49.93
+84,minivan,46.33
+83,"web site, website, internet site, site",59.95
+83,"parallel bars, bars",79.75
+83,turnstile,53.14
+83,stretcher,95.58
+104,"quill, quill pen",77.93
+95,"suspension bridge",76.65
+95,"spotlight, spot",33.22
+95,barbershop,30.39
+95,"greenhouse, nursery, glasshouse",37.27
+94,"suit, suit of clothes",55.65
+94,"suspension bridge",92.69
+94,"church, church building",61.91
+94,"vacuum, vacuum cleaner",50.89
+94,"coil, spiral, volute, whorl, helix",65.38
+94,harp,97.39
+94,"pickup, pickup truck",36.14
+105,"web site, website, internet site, site",35.35
+105,scoreboard,68.82
+105,flamingo,48.26
+105,swing,39.93
+105,fountain,47.89
+105,"dishwasher, dish washer, dishwashing machine",96.97
+106,guillotine,53.09
+107,"stopwatch, stop watch",34.77
+107,envelope,34.19
+109,"fire screen, fireguard",63.97
+109,"suit, suit of clothes",39.50
+108,"spider web, spider's web",35.66
+108,"Dutch oven",35.90
+111,"bell cote, bell cot",31.67
+112,turnstile,51.51
+112,"prison, prison house",33.39
+112,"book jacket, dust cover, dust jacket, dust wrapper",41.00
+113,"web site, website, internet site, site",42.31
+113,"submarine, pigboat, sub, U-boat",59.21
+115,broom,48.62
+115,gown,53.58
+115,overskirt,38.05
+115,sarong,57.27
+119,barbershop,35.19
+119,"sports car, sport car",82.72
+121,"parachute, chute",91.55
+121,alp,75.69
+121,ski,57.98
+121,"solar dish, solar collector, solar furnace",74.13
+121,balloon,83.77
+124,wig,34.87
+124,banjo,93.03
+125,wig,34.87
+125,banjo,93.03
+126,maillot,35.40
+126,"microphone, mike",30.76
+126,"spotlight, spot",57.67
+127,"spotlight, spot",36.89
+128,"electric guitar",78.64
+130,ski,64.32
+130,alp,37.45
+129,"chainlink fence",47.26
+129,"brassiere, bra, bandeau",35.84
+129,"web site, website, internet site, site",62.27
+132,hornbill,46.32
+133,"spotlight, spot",32.32
+133,wig,60.30
+134,"web site, website, internet site, site",68.94
+134,castle,52.40
+134,geyser,88.83
+135,"hook, claw",51.88
+135,planetarium,50.65
+135,"coil, spiral, volute, whorl, helix",47.55
+136,"hair spray",36.29
+136,"wine bottle",61.55
+136,"red wine",43.75
+137,"brassiere, bra, bandeau",32.00
+137,"lipstick, lip rouge",38.22
+138,gown,65.10
+138,harp,67.54
+139,"sports car, sport car",46.13
+139,swing,33.21
+139,"racer, race car, racing car",35.94
+139,"bobsled, bobsleigh, bob",30.97
+139,fountain,38.21
+140,"analog clock",30.93
+141,torch,52.15
+141,matchstick,38.42
+142,fountain,73.01
+142,sunglass,36.40
+142,"spotlight, spot",38.13
+143,"space shuttle",67.71
+143,abaya,37.43
+143,cloak,45.75
+143,"racer, race car, racing car",39.38
+144,projector,42.52
+144,rotisserie,35.12
+144,"radio, wireless",42.52
+145,"fire screen, fireguard",49.53
+146,"web site, website, internet site, site",91.89
+146,"picket fence, paling",54.33
+146,"spotlight, spot",92.05
+147,"spider web, spider's web",52.49
+147,"prison, prison house",52.60
+147,"fire screen, fireguard",32.18
+149,"comic book",88.10
+149,"carousel, carrousel, merry-go-round, roundabout, whirligig",75.62
