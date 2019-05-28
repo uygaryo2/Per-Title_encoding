@@ -1,0 +1,262 @@
+clip_id,label_value,maks_probability
+5,"chime, bell, gong",57.83969163894653
+5,"spider web, spider's web",68.54081153869629
+5,"flagpole, flagstaff",60.9882652759552
+8,"mobile home, manufactured home",56.76724314689636
+6,"African chameleon, Chamaeleo chamaeleon",81.72518610954285
+6,rapeseed,98.12841415405273
+8,monastery,69.50997710227966
+9,"African chameleon, Chamaeleo chamaeleon",73.3519434928894
+9,rapeseed,97.33589887619019
+7,"window screen",56.976163387298584
+7,"jinrikisha, ricksha, rickshaw",53.84962558746338
+7,"cowboy boot",50.38602948188782
+11,"spider web, spider's web",53.354138135910034
+11,"African chameleon, Chamaeleo chamaeleon",74.81808066368103
+11,rapeseed,97.93573021888733
+12,"mobile home, manufactured home",53.34406495094299
+12,monastery,69.91045475006104
+15,"cab, hack, taxi, taxicab",67.63725280761719
+15,fountain,53.4991979598999
+15,spatula,62.641751766204834
+15,hourglass,55.533093214035034
+16,"spotlight, spot",74.49491620063782
+16,"barn spider, Araneus cavaticus",53.82606387138367
+16,"spider web, spider's web",59.803056716918945
+16,"prison, prison house",83.03196430206299
+13,"punching bag, punch bag, punching ball, punchball",95.38673162460327
+29,"spider web, spider's web",89.59531784057617
+29,"prison, prison house",48.64991903305054
+29,"spotlight, spot",91.13652110099792
+29,matchstick,66.01847410202026
+29,rifle,53.474968671798706
+31,"steel arch bridge",54.994940757751465
+31,"web site, website, internet site, site",49.706441164016724
+31,"bannister, banister, balustrade, balusters, handrail",48.10808300971985
+31,palace,60.515326261520386
+31,"spider web, spider's web",60.81588268280029
+32,"suit, suit of clothes",62.0292067527771
+32,"fire screen, fireguard",90.39021730422974
+32,fountain,96.34770154953003
+32,"prison, prison house",80.98061084747314
+32,abaya,55.79496622085571
+32,scoreboard,44.26504969596863
+32,shovel,61.22031211853027
+30,"prison, prison house",85.06799340248108
+30,"cinema, movie theater, movie theatre, movie house, picture palace",92.93863773345947
+30,palace,70.16794681549072
+30,"theater curtain, theatre curtain",63.567930459976196
+33,fountain,59.1758131980896
+33,"beacon, lighthouse, beacon light, pharos",63.513875007629395
+33,"prison, prison house",79.76201176643372
+33,"quilt, comforter, comfort, puff",48.76209497451782
+35,"hair spray",50.18547773361206
+35,wig,76.43108367919922
+35,fountain,54.4822096824646
+35,"theater curtain, theatre curtain",78.21375131607056
+35,"streetcar, tram, tramcar, trolley, trolley car",54.119402170181274
+34,harp,63.62912654876709
+38,"wardrobe, closet, press",74.50507879257202
+38,"spotlight, spot",65.16836881637573
+38,"brass, memorial tablet, plaque",84.48547720909119
+38,"spider web, spider's web",73.066246509552
+39,"organ, pipe organ",52.84223556518555
+39,altar,46.51172757148743
+39,"groom, bridegroom",52.74657607078552
+39,"prison, prison house",40.23600220680237
+39,"digital clock",59.034109115600586
+39,"wardrobe, closet, press",44.949689507484436
+39,harp,62.66648769378662
+39,"lab coat, laboratory coat",68.95990371704102
+39,stethoscope,40.4523491859436
+36,"spider web, spider's web",86.46334409713745
+36,"steam locomotive",50.45849680900574
+36,"wardrobe, closet, press",42.43617057800293
+42,gondola,80.54859638214111
+42,"projectile, missile",57.67049193382263
+42,fountain,48.09693694114685
+42,"butcher shop, meat market",90.6730592250824
+43,"prison, prison house",53.511595726013184
+43,harp,75.20201206207275
+43,"maze, labyrinth",43.4767484664917
+43,fountain,60.56676506996155
+43,gown,67.54192113876343
+43,"barn spider, Araneus cavaticus",63.415586948394775
+43,"balance beam, beam",63.14142942428589
+44,boathouse,58.00696015357971
+44,"window shade",54.932403564453125
+44,fountain,68.04147958755493
+44,"lakeside, lakeshore",58.451491594314575
+44,"spider web, spider's web",41.60137176513672
+44,"trench coat",44.99635398387909
+45,"suspension bridge",87.79948353767395
+45,"spider web, spider's web",71.76517248153687
+45,"digital clock",86.58332228660583
+45,fountain,53.21003198623657
+45,"prison, prison house",66.55834913253784
+45,"suit, suit of clothes",44.68985199928284
+47,"prison, prison house",88.03852796554565
+47,envelope,46.466147899627686
+46,"suspension bridge",68.96727085113525
+46,fountain,64.35602307319641
+46,"spider web, spider's web",79.69107031822205
+46,"digital clock",64.87104296684265
+48,"digital clock",96.82936668395996
+48,"spider web, spider's web",74.61550235748291
+48,"tennis ball",74.41418170928955
+48,balloon,45.578235387802124
+48,"fire screen, fireguard",72.92749881744385
+48,"ski mask",75.73691606521606
+48,castle,62.881046533584595
+48,"spotlight, spot",78.80779504776001
+49,pier,88.78980278968811
+49,"ballplayer, baseball player",87.09611892700195
+49,"lab coat, laboratory coat",87.95075416564941
+49,sweatshirt,44.47755813598633
+49,"seashore, coast, seacoast, sea-coast",68.02142858505249
+49,"comic book",76.24369263648987
+49,crutch,44.99480724334717
+49,"prison, prison house",43.442222476005554
+49,"suit, suit of clothes",54.26840782165527
+49,"flute, transverse flute",86.98264956474304
+49,"digital clock",82.21666216850281
+49,"street sign",54.49187159538269
+49,barbershop,51.960718631744385
+49,bow,66.72861576080322
+50,"cinema, movie theater, movie theatre, movie house, picture palace",96.2397038936615
+50,"garden spider, Aranea diademata",42.05006957054138
+50,canoe,43.711018562316895
+50,"ear, spike, capitulum",50.276970863342285
+50,"maze, labyrinth",41.90630912780762
+50,"head cabbage",54.937171936035156
+50,"American egret, great white heron, Egretta albus",87.56810426712036
+40,"web site, website, internet site, site",53.690510988235474
+40,"parking meter",43.70660185813904
+40,"punching bag, punch bag, punching ball, punchball",40.92918634414673
+40,"organ, pipe organ",46.08731269836426
+40,"bannister, banister, balustrade, balusters, handrail",45.29666006565094
+40,"cab, hack, taxi, taxicab",67.3488974571228
+41,mask,64.02093172073364
+41,"worm fence, snake fence, snake-rail fence, Virginia fence",62.123990058898926
+41,"spotlight, spot",53.44060659408569
+41,"wardrobe, closet, press",50.26460289955139
+41,"suspension bridge",97.55949378013611
+41,"chainlink fence",54.103970527648926
+85,"car wheel",87.70349621772766
+85,"sports car, sport car",80.2006721496582
+85,toaster,68.46600770950317
+84,envelope,57.64371156692505
+84,"worm fence, snake fence, snake-rail fence, Virginia fence",31.381285190582275
+84,"mobile home, manufactured home",55.48815131187439
+84,"sports car, sport car",73.82572293281555
+84,"prison, prison house",37.80132532119751
+84,"pickup, pickup truck",43.24063956737518
+84,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",34.84547436237335
+84,"cab, hack, taxi, taxicab",33.111441135406494
+84,"grille, radiator grille",72.48492240905762
+84,"crash helmet",37.170401215553284
+84,"spotlight, spot",49.926549196243286
+84,minivan,46.33167386054993
+83,"web site, website, internet site, site",59.95450019836426
+83,"parallel bars, bars",79.75234985351562
+83,turnstile,53.13944220542908
+83,stretcher,95.57604193687439
+104,"quill, quill pen",77.92896628379822
+95,"suspension bridge",76.64568424224854
+95,"spotlight, spot",33.21996033191681
+95,barbershop,30.393344163894653
+95,"greenhouse, nursery, glasshouse",37.26648390293121
+94,"suit, suit of clothes",55.650895833969116
+94,"suspension bridge",92.68566370010376
+94,"church, church building",61.914849281311035
+94,"vacuum, vacuum cleaner",50.89218616485596
+94,"coil, spiral, volute, whorl, helix",65.38419723510742
+94,harp,97.3944902420044
+94,"pickup, pickup truck",36.135005950927734
+105,"web site, website, internet site, site",35.35430133342743
+105,scoreboard,68.81950497627258
+105,flamingo,48.25705587863922
+105,swing,39.931297302246094
+105,fountain,47.89051115512848
+105,"dishwasher, dish washer, dishwashing machine",96.97417616844177
+106,guillotine,53.08934450149536
+107,"stopwatch, stop watch",34.772077202796936
+107,envelope,34.18721556663513
+109,"fire screen, fireguard",63.970887660980225
+109,"suit, suit of clothes",39.49609398841858
+108,"spider web, spider's web",35.661062598228455
+108,"Dutch oven",35.903722047805786
+111,"bell cote, bell cot",31.666767597198486
+112,turnstile,51.507753133773804
+112,"prison, prison house",33.38746428489685
+112,"book jacket, dust cover, dust jacket, dust wrapper",41.001737117767334
+113,"web site, website, internet site, site",42.311298847198486
+113,"submarine, pigboat, sub, U-boat",59.212565422058105
+115,broom,48.61532151699066
+115,gown,53.58431339263916
+115,overskirt,38.048386573791504
+115,sarong,57.26706385612488
+119,barbershop,35.18783450126648
+119,"sports car, sport car",82.7161431312561
+121,"parachute, chute",91.55091047286987
+121,alp,75.69466829299927
+121,ski,57.98306465148926
+121,"solar dish, solar collector, solar furnace",74.1255521774292
+121,balloon,83.77206325531006
+124,wig,34.87406373023987
+124,banjo,93.02873015403748
+125,wig,34.87406373023987
+125,banjo,93.02873015403748
+126,maillot,35.40099859237671
+126,"microphone, mike",30.76234459877014
+126,"spotlight, spot",57.67027139663696
+127,"spotlight, spot",36.8883490562439
+128,"electric guitar",78.6369264125824
+130,ski,64.32276964187622
+130,alp,37.45278716087341
+129,"chainlink fence",47.26274609565735
+129,"brassiere, bra, bandeau",35.842519998550415
+129,"web site, website, internet site, site",62.26556897163391
+132,hornbill,46.32014334201813
+133,"spotlight, spot",32.322490215301514
+133,wig,60.29537916183472
+134,"web site, website, internet site, site",68.94339919090271
+134,castle,52.40417122840881
+134,geyser,88.8292670249939
+135,"hook, claw",51.88114643096924
+135,planetarium,50.64545273780823
+135,"coil, spiral, volute, whorl, helix",47.54534065723419
+136,"hair spray",36.290550231933594
+136,"wine bottle",61.547255516052246
+136,"red wine",43.7491774559021
+137,"brassiere, bra, bandeau",31.99741840362549
+137,"lipstick, lip rouge",38.223397731781006
+138,gown,65.103018283844
+138,harp,67.53631830215454
+139,"sports car, sport car",46.12759351730347
+139,swing,33.207130432128906
+139,"racer, race car, racing car",35.943394899368286
+139,"bobsled, bobsleigh, bob",30.973178148269653
+139,fountain,38.20907473564148
+140,"analog clock",30.932560563087463
+141,torch,52.14827060699463
+141,matchstick,38.41928243637085
+142,fountain,73.00565242767334
+142,sunglass,36.398762464523315
+142,"spotlight, spot",38.127100467681885
+143,"space shuttle",67.71115064620972
+143,abaya,37.434399127960205
+143,cloak,45.75374126434326
+143,"racer, race car, racing car",39.384081959724426
+144,projector,42.515403032302856
+144,rotisserie,35.12493371963501
+144,"radio, wireless",42.52327084541321
+145,"fire screen, fireguard",49.52819347381592
+146,"web site, website, internet site, site",91.89258217811584
+146,"picket fence, paling",54.32945489883423
+146,"spotlight, spot",92.04791188240051
+147,"spider web, spider's web",52.487051486968994
+147,"prison, prison house",52.604156732559204
+147,"fire screen, fireguard",32.17873275279999
+149,"comic book",88.09841275215149
+149,"carousel, carrousel, merry-go-round, roundabout, whirligig",75.62244534492493
