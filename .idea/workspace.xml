@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d44b330-cf3f-4eb0-bafc-cc2510db5aeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Data Exploration/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Exploration/Feature Engineering/.ipynb_checkpoints/Model with Label Data-Linear Regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Feature Engineering/.ipynb_checkpoints/Model with Label Data-Linear Regression-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Model with Label Data-Linear Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Model with Label Data-Linear Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Exploration/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
