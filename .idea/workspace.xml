@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d44b330-cf3f-4eb0-bafc-cc2510db5aeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Exploration/Data Exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Data Exploration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Feature Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Feature Engineering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Model with Label Data-Linear Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Model with Label Data-Linear Regression.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,13 +13,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data-PreProcessing/Data PreProcessing.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="2" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-77682-open.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -155,6 +158,9 @@
           <selected id="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-77682-open.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
