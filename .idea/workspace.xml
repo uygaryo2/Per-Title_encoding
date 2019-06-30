@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d44b330-cf3f-4eb0-bafc-cc2510db5aeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Model with Label Data-Linear Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Feature Engineering/Model with Label Data-Linear Regression.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="0d44b330-cf3f-4eb0-bafc-cc2510db5aeb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +21,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-77682-open.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -70,6 +71,12 @@
               <item name="Per-Title_encoding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Per-Title_encoding" type="462c0819:PsiDirectoryNode" />
               <item name="Data Exploration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Per-Title_encoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Per-Title_encoding" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="Feature Engineering" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +167,11 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-77682-open.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
