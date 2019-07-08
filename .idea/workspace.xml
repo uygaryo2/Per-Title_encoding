@@ -2,7 +2,357 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d44b330-cf3f-4eb0-bafc-cc2510db5aeb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/.ipynb_checkpoints/Data Preprocessing-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/.ipynb_checkpoints/Model with Label Data-Support Vector Regression-Grid Search-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/.ipynb_checkpoints/Neural Network-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/African chameleon, Chamaeleo chamaeleon_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/American egret, great white heron, Egretta albus_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/Data Preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/Dutch oven_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/Neural Network.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/abaya_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/alp_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/altar_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/analog clock_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/balance beam, beam_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/balloon_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/ballplayer, baseball player_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/banjo_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/bannister, banister, balustrade, balusters, handrail_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/barbershop_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/barn spider, Araneus cavaticus_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/beacon, lighthouse, beacon light, pharos_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/bell cote, bell cot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/boathouse_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/bobsled, bobsleigh, bob_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/book jacket, dust cover, dust jacket, dust wrapper_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/bow_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/brass, memorial tablet, plaque_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/brassiere, bra, bandeau_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/broom_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/butcher shop, meat market_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/cab, hack, taxi, taxicab_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/canoe_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/car wheel_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/carousel, carrousel, merry-go-round, roundabout, whirligig_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/castle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/chainlink fence_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/chime, bell, gong_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/church, church building_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/cinema, movie theater, movie theatre, movie house, picture palace_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_bitrate_total_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_duration_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_height_1056_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_height_1080_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_height_1440_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_height_816_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_size_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/clip_width_1920_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/cloak_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/coil, spiral, volute, whorl, helix_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/comic book_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/cowboy boot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/crash helmet_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/crf_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/crutch_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/data/test.df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/data/train.df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/digital clock_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/dishwasher, dish washer, dishwashing machine_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/ear, spike, capitulum_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/electric guitar_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_bitrate_video_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_height_1080_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_height_240_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_height_288_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_height_384_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_height_480_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_height_720_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_1280_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_1920_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_320_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_384_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_512_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_640_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/encode_width_720_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/envelope_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/fire screen, fireguard_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/flagpole, flagstaff_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/flamingo_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/flute, transverse flute_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/fountain_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/garden spider, Aranea diademata_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/geyser_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/gondola_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/gown_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/greenhouse, nursery, glasshouse_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/grille, radiator grille_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/groom, bridegroom_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/guillotine_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/hair spray_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/harp_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/head cabbage_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/hook, claw_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/hornbill_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/hourglass_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/jinrikisha, ricksha, rickshaw_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/lab coat, laboratory coat_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/lakeside, lakeshore_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/lipstick, lip rouge_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/maillot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/mask_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/matchstick_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/maze, labyrinth_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/microphone, mike_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/minivan_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/mobile home, manufactured home_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/monastery_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/nr_of_image_shifts_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/nr_of_images_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/organ, pipe organ_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/overskirt_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/palace_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/parachute, chute_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/parallel bars, bars_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/parking meter_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/picket fence, paling_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/pickup, pickup truck_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/pier_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/planetarium_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/prison, prison house_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/projectile, missile_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/projector_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/punching bag, punch bag, punching ball, punchball_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/quill, quill pen_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/quilt, comforter, comfort, puff_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/racer, race car, racing car_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/radio, wireless_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/rapeseed_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/red wine_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/rifle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/rotisserie_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/sarong_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/African chameleon, Chamaeleo chamaeleon_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/American egret, great white heron, Egretta albus_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/Dutch oven_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/abaya_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/alp_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/altar_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/analog clock_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/balance beam, beam_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/balloon_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/ballplayer, baseball player_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/banjo_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/bannister, banister, balustrade, balusters, handrail_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/barbershop_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/barn spider, Araneus cavaticus_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/beacon, lighthouse, beacon light, pharos_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/bell cote, bell cot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/boathouse_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/bobsled, bobsleigh, bob_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/book jacket, dust cover, dust jacket, dust wrapper_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/bow_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/brass, memorial tablet, plaque_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/brassiere, bra, bandeau_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/broom_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/butcher shop, meat market_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/cab, hack, taxi, taxicab_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/canoe_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/car wheel_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/carousel, carrousel, merry-go-round, roundabout, whirligig_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/castle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/chainlink fence_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/chime, bell, gong_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/church, church building_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/cinema, movie theater, movie theatre, movie house, picture palace_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_bitrate_total_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_duration_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_frame_rate_24000_1001_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_frame_rate_24_1_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_frame_rate_25_1_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_frame_rate_30000_1001_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_frame_rate_45000_1877_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_frame_rate_50_1_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_height_1056_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_height_1080_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_height_1440_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_height_816_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_size_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/clip_width_1920_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/cloak_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/coil, spiral, volute, whorl, helix_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/comic book_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/cowboy boot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/crash helmet_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/crf_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/crutch_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/digital clock_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/dishwasher, dish washer, dishwashing machine_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/ear, spike, capitulum_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/electric guitar_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_bitrate_video_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_height_1080_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_height_240_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_height_288_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_height_384_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_height_480_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_height_720_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_1280_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_1920_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_320_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_384_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_512_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_640_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/encode_width_720_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/envelope_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/fire screen, fireguard_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/flagpole, flagstaff_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/flamingo_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/flute, transverse flute_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/fountain_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/garden spider, Aranea diademata_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/geyser_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/gondola_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/gown_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/greenhouse, nursery, glasshouse_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/grille, radiator grille_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/groom, bridegroom_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/guillotine_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/hair spray_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/harp_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/head cabbage_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/hook, claw_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/hornbill_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/hourglass_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/jinrikisha, ricksha, rickshaw_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/lab coat, laboratory coat_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/lakeside, lakeshore_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/lipstick, lip rouge_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/maillot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/mask_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/matchstick_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/maze, labyrinth_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/microphone, mike_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/minivan_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/mobile home, manufactured home_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/monastery_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/nr_of_image_shifts_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/nr_of_images_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/organ, pipe organ_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/overskirt_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/palace_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/parachute, chute_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/parallel bars, bars_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/parking meter_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/picket fence, paling_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/pickup, pickup truck_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/pier_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/planetarium_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/prison, prison house_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/projectile, missile_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/projector_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/punching bag, punch bag, punching ball, punchball_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/quill, quill pen_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/quilt, comforter, comfort, puff_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/racer, race car, racing car_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/radio, wireless_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/rapeseed_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/red wine_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/rifle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/rotisserie_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/sarong_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/scoreboard_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/seashore, coast, seacoast, sea-coast_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/shovel_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/ski mask_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/ski_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/solar dish, solar collector, solar furnace_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/space shuttle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/spatula_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/spider web, spider's web_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/sports car, sport car_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/spotlight, spot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/steam locomotive_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/steel arch bridge_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/stethoscope_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/stopwatch, stop watch_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/street sign_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/streetcar, tram, tramcar, trolley, trolley car_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/stretcher_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/submarine, pigboat, sub, U-boat_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/suit, suit of clothes_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/sunglass_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/suspension bridge_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/sweatshirt_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/swing_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/tennis ball_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/theater curtain, theatre curtain_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/toaster_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/torch_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/trench coat_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/turnstile_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/vacuum, vacuum cleaner_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/video_profile_High 4:2:2_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/video_profile_High 4:4:4 Predictive_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/video_profile_High_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/video_profile_Main_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/video_profile_Profile 0_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/vmaf_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/wardrobe, closet, press_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/web site, website, internet site, site_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/wig_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/window screen_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/window shade_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/wine bottle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scaler/worm fence, snake fence, snake-rail fence, Virginia fence_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/scoreboard_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/seashore, coast, seacoast, sea-coast_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/shovel_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/ski mask_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/ski_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/solar dish, solar collector, solar furnace_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/space shuttle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/spatula_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/spider web, spider's web_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/sports car, sport car_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/spotlight, spot_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/steam locomotive_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/steel arch bridge_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/stethoscope_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/stopwatch, stop watch_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/street sign_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/streetcar, tram, tramcar, trolley, trolley car_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/stretcher_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/submarine, pigboat, sub, U-boat_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/suit, suit of clothes_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/sunglass_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/suspension bridge_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/sweatshirt_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/swing_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/tennis ball_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/theater curtain, theatre curtain_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/toaster_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/torch_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/trench coat_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/turnstile_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/vacuum, vacuum cleaner_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/video_profile_High 4:2:2_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/video_profile_High 4:4:4 Predictive_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/video_profile_High_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/video_profile_Main_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/video_profile_Profile 0_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/vmaf_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/wardrobe, closet, press_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/web site, website, internet site, site_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/wig_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/window screen_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/window shade_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/wine bottle_normalizer.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Exploration/Model/worm fence, snake fence, snake-rail fence, Virginia fence_normalizer.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Exploration/Model/Model with Label Data-Support Vector Regression-Grid Search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration/Model/Model with Label Data-Support Vector Regression-Grid Search.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +361,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
+        <entry file="file://$PROJECT_DIR$/Data-PreProcessing/Data PreProcessing.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -48,18 +388,22 @@
       <list>
         <option value="$PROJECT_DIR$/Data Exploration/Feature Engineering/Data Exploration.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Data-PreProcessing/Data PreProcessing.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="714" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,17 +414,28 @@
             <path>
               <item name="Per-Title_encoding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Per-Title_encoding" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Exploration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Per-Title_encoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Per-Title_encoding" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data Exploration/Model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,13 +465,9 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.28915662" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -124,14 +475,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data Exploration/Feature Engineering/Data Exploration.py" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -140,16 +506,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Exploration/Feature Engineering/Data Exploration.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/Data Exploration/Untitled.ipynb" />
+    <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-77682-open.html" />
+    <entry file="file://$PROJECT_DIR$/Data-PreProcessing/Data PreProcessing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
