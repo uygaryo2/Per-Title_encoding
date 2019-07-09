@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d44b330-cf3f-4eb0-bafc-cc2510db5aeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/All Comparison-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/All Comparison.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clip_bitrate_total_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/clip_bitrate_total_normalizer.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clip_duration_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/clip_duration_normalizer.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clip_size_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/clip_size_normalizer.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crf_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/crf_normalizer.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encode_bitrate_video_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/encode_bitrate_video_normalizer.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_of_image_shifts_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/nr_of_image_shifts_normalizer.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr_of_images_normalizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/nr_of_images_normalizer.pkl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
