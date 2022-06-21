@@ -12,7 +12,7 @@ jupyter-core==4.4.0
 kiwisolver==1.1.0
 matplotlib==3.0.3
 mlxtend==0.16.0
-numpy==1.16.3
+numpy==1.22.0
 pandas==0.24.2
 parso==0.4.0
 pexpect==4.7.0
